@@ -1,5 +1,6 @@
 # Handy Groovy Scripts for Jenkins and CloudBees Jenkins Platform
 
+-----------------------------------
 The scripts in this repository can be run in Jenkins script console: Manage Jenkins > Script Console. Most work on any Jenkins Enterprise instance, while some are specific to CloudBees Jenkins Operations Center (CJOC).
 
 ## Count CJOC JSON
